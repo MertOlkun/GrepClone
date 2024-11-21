@@ -1,0 +1,17 @@
+/home/mert/GrepClone/obj/Debug/net8.0/GrepClone.csproj.AssemblyReference.cache
+/home/mert/GrepClone/obj/Debug/net8.0/GrepClone.GeneratedMSBuildEditorConfig.editorconfig
+/home/mert/GrepClone/obj/Debug/net8.0/GrepClone.AssemblyInfoInputs.cache
+/home/mert/GrepClone/obj/Debug/net8.0/GrepClone.AssemblyInfo.cs
+/home/mert/GrepClone/obj/Debug/net8.0/GrepClone.csproj.CoreCompileInputs.cache
+/home/mert/GrepClone/bin/Debug/net8.0/GrepClone
+/home/mert/GrepClone/bin/Debug/net8.0/GrepClone.deps.json
+/home/mert/GrepClone/bin/Debug/net8.0/GrepClone.runtimeconfig.json
+/home/mert/GrepClone/bin/Debug/net8.0/GrepClone.dll
+/home/mert/GrepClone/bin/Debug/net8.0/GrepClone.pdb
+/home/mert/GrepClone/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/mert/GrepClone/obj/Debug/net8.0/GrepClone.csproj.Up2Date
+/home/mert/GrepClone/obj/Debug/net8.0/GrepClone.dll
+/home/mert/GrepClone/obj/Debug/net8.0/refint/GrepClone.dll
+/home/mert/GrepClone/obj/Debug/net8.0/GrepClone.pdb
+/home/mert/GrepClone/obj/Debug/net8.0/GrepClone.genruntimeconfig.cache
+/home/mert/GrepClone/obj/Debug/net8.0/ref/GrepClone.dll
