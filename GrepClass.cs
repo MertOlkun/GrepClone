@@ -1,12 +1,6 @@
 using Newtonsoft.Json;
 public class GrepClass
 {
- /*    public string Class_fileDirectory { get; set; }
-
-    GrepClass(string class_fileDirectory)
-    {
-        Class_fileDirectory = class_fileDirectory;
-    }*/
     public string Deserialize()
     {
         Console.WriteLine("Enter a txt file in the project directory with its extension");
